@@ -1,0 +1,30 @@
+C:\Workspace\Projeto RPG\bin\Debug\net6.0\Projeto RPG.exe
+C:\Workspace\Projeto RPG\bin\Debug\net6.0\Projeto RPG.deps.json
+C:\Workspace\Projeto RPG\bin\Debug\net6.0\Projeto RPG.runtimeconfig.json
+C:\Workspace\Projeto RPG\bin\Debug\net6.0\Projeto RPG.dll
+C:\Workspace\Projeto RPG\bin\Debug\net6.0\Projeto RPG.pdb
+C:\Workspace\Projeto RPG\obj\Debug\net6.0\Projeto RPG.csproj.AssemblyReference.cache
+C:\Workspace\Projeto RPG\obj\Debug\net6.0\Projeto RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Projeto RPG\obj\Debug\net6.0\Projeto RPG.AssemblyInfoInputs.cache
+C:\Workspace\Projeto RPG\obj\Debug\net6.0\Projeto RPG.AssemblyInfo.cs
+C:\Workspace\Projeto RPG\obj\Debug\net6.0\Projeto RPG.csproj.CoreCompileInputs.cache
+C:\Workspace\Projeto RPG\obj\Debug\net6.0\Projeto RPG.dll
+C:\Workspace\Projeto RPG\obj\Debug\net6.0\refint\Projeto RPG.dll
+C:\Workspace\Projeto RPG\obj\Debug\net6.0\Projeto RPG.pdb
+C:\Workspace\Projeto RPG\obj\Debug\net6.0\Projeto RPG.genruntimeconfig.cache
+C:\Workspace\Projeto RPG\obj\Debug\net6.0\ref\Projeto RPG.dll
+D:\Desktop\Desafio de Projeto\Projeto RPG\bin\Debug\net6.0\Projeto RPG.exe
+D:\Desktop\Desafio de Projeto\Projeto RPG\bin\Debug\net6.0\Projeto RPG.deps.json
+D:\Desktop\Desafio de Projeto\Projeto RPG\bin\Debug\net6.0\Projeto RPG.runtimeconfig.json
+D:\Desktop\Desafio de Projeto\Projeto RPG\bin\Debug\net6.0\Projeto RPG.dll
+D:\Desktop\Desafio de Projeto\Projeto RPG\bin\Debug\net6.0\Projeto RPG.pdb
+D:\Desktop\Desafio de Projeto\Projeto RPG\obj\Debug\net6.0\Projeto RPG.csproj.AssemblyReference.cache
+D:\Desktop\Desafio de Projeto\Projeto RPG\obj\Debug\net6.0\Projeto RPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Desafio de Projeto\Projeto RPG\obj\Debug\net6.0\Projeto RPG.AssemblyInfoInputs.cache
+D:\Desktop\Desafio de Projeto\Projeto RPG\obj\Debug\net6.0\Projeto RPG.AssemblyInfo.cs
+D:\Desktop\Desafio de Projeto\Projeto RPG\obj\Debug\net6.0\Projeto RPG.csproj.CoreCompileInputs.cache
+D:\Desktop\Desafio de Projeto\Projeto RPG\obj\Debug\net6.0\Projeto RPG.dll
+D:\Desktop\Desafio de Projeto\Projeto RPG\obj\Debug\net6.0\refint\Projeto RPG.dll
+D:\Desktop\Desafio de Projeto\Projeto RPG\obj\Debug\net6.0\Projeto RPG.pdb
+D:\Desktop\Desafio de Projeto\Projeto RPG\obj\Debug\net6.0\Projeto RPG.genruntimeconfig.cache
+D:\Desktop\Desafio de Projeto\Projeto RPG\obj\Debug\net6.0\ref\Projeto RPG.dll
